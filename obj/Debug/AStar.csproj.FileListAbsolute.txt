@@ -1,0 +1,18 @@
+D:\Programing\AStar\AStar\bin\Debug\AStar.exe.config
+D:\Programing\AStar\AStar\bin\Debug\AStar.exe
+D:\Programing\AStar\AStar\bin\Debug\AStar.pdb
+D:\Programing\AStar\AStar\obj\Debug\AStar.csprojResolveAssemblyReference.cache
+D:\Programing\AStar\AStar\obj\Debug\AStar.Form1.resources
+D:\Programing\AStar\AStar\obj\Debug\AStar.Properties.Resources.resources
+D:\Programing\AStar\AStar\obj\Debug\AStar.csproj.GenerateResource.Cache
+D:\Programing\AStar\AStar\obj\Debug\AStar.exe
+D:\Programing\AStar\AStar\obj\Debug\AStar.pdb
+D:\Programing\AStar - kopie\AStar\bin\Debug\AStar.exe.config
+D:\Programing\AStar - kopie\AStar\obj\Debug\AStar.exe
+D:\Programing\AStar - kopie\AStar\obj\Debug\AStar.pdb
+D:\Programing\AStar - kopie\AStar\bin\Debug\AStar.exe
+D:\Programing\AStar - kopie\AStar\bin\Debug\AStar.pdb
+D:\Programing\AStar - kopie\AStar\obj\Debug\AStar.csprojResolveAssemblyReference.cache
+D:\Programing\AStar - kopie\AStar\obj\Debug\AStar.Form1.resources
+D:\Programing\AStar - kopie\AStar\obj\Debug\AStar.Properties.Resources.resources
+D:\Programing\AStar - kopie\AStar\obj\Debug\AStar.csproj.GenerateResource.Cache
